@@ -1,0 +1,23 @@
+.dok{
+    width: 100%;
+    height: 600px;
+    background-color: #00BFFF;
+    display: flex;
+}
+.dok1{
+    background-color: white;
+    margin: 10px;
+    -webkit-box-shadow: 10px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 10px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 10px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.c1{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.c2{
+    width: 300px;
+    height: 200px;
+
+}
